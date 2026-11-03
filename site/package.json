@@ -18,7 +18,7 @@
     "reallysimpledocs": "^1.0.14"
   },
   "devDependencies": {
-    "astro": "^6.4.6",
-    "wrangler": "^4.50.0"
+    "astro": "^7.3.3",
+    "wrangler": "^4.156.2"
   }
 }
